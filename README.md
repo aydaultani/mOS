@@ -13,5 +13,5 @@ filesystem
 
 # Get Started
 
-`runghc Setup.hs`\n
+`runghc Setup.hs`
 `runghc main.hs`
